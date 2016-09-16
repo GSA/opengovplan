@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Open Government Plan | Title of the page"
-permalink: /template/
+permalink: /ongoingflagship/
 description: ""
 ---
 
