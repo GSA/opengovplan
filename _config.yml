@@ -22,7 +22,7 @@ exclude:
 # Site metadata
 name: "Open Government Plan"
 description: "Some information about GSA in general."
-baseurl: 
+baseurl: /opengovplan
 
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
@@ -41,14 +41,14 @@ navigation:
   url: /summary/
 - text: "Section 1. Flagship Initiatives"
   url: /ongoingflagship/
-  
+
   sub_navigation:
   - text: "1.1 <span>New Flagship Initiative: Contact USA: The First Machine Readable Federal Government Directory</span>"
     url: /newflagship/
 
 - text: "Section 2: <span>Open Data</span>"
   url: /opendata/
-  
+
 - text: "Section 3: <span>Open Innovation</span>"
   url: /openinnovation/
 
@@ -57,10 +57,10 @@ navigation:
 
 - text: "Section 5: <span>Open Source Software</span>"
   url: /opensource/
-  
+
 - text: "Section 6: <span>Transparency Initiatives</span>"
   url: /transparency/
-  
+
 - text: "Section 7: <span>Proactive Disclosures</span>"
   url: /disclosures/
 
@@ -69,27 +69,27 @@ navigation:
 
 - text: "Section 9: <span>Whistleblower Protection</span>"
   url: /whistleblowerprotection/
-  
+
 - text: "Section 10: <span>Websites</span>"
   url: /websites/
 
 - text: "Section 11: <span>Spending Information</span>"
   url: /spending/
-    
+
 - text: "Section 12: <span>Public Notice</span>"
   url: /publicnotice/
-  
+
 - text: "Section 13: <span>Records Management</span>"
   url: /records/
-    
+
 - text: "Section 14: <span>Freedom of Information Act (FOIA) Requests</span>"
-  url: /foia/ 
-  
+  url: /foia/
+
 - text: "Section 15: <span>Declassification</span>"
   url: /declassification/
-  
+
 - text: "Section 16: <span>Congressional Requests</span>"
   url: /congressionalrequests/
-    
+
 - text: "Section 17: <span>Web Pages</span>"
-  url: /webpages/ 
+  url: /webpages/
