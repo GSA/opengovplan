@@ -10,7 +10,7 @@ description: ""
 
 <p dir="ltr">Welcome to the Open Government Plan for the General Services Administration (GSA) for 2016-2018.
 
-<p dir="ltr">While GSA updates the Open Governman Plan at least every two years, our efforts to build more transparent, engaging and responsive programs both for citizens and other agencies grow each day. As a result, we are eager to hear your ideas and feedback each month here as our teams continue to report emerging programs and initiatives. Our fourth update to GSA's Open Government Plan, in the spirit of our open source commitment, forked this Github design from the National Archives and Record Administration's Open Government Plan. Like the living document this approach allows our Open Government Plan to become, we look forward to honoring their opens ource contribution by further enhancing it with new features and capabilities for all agencies to benefit from. You can provide feedback through the following methods:</p>
+<p dir="ltr">While GSA updates the Open Governman Plan at least every two years, our efforts to build more transparent, engaging and responsive programs both for citizens and other agencies grow each day. As a result, we are eager to hear your ideas and feedback each month here as our teams continue to report emerging programs and initiatives. Our fourth update to GSA's Open Government Plan, in the spirit of our open source commitment, forked this Github design from the National Archives and Record Administration's Open Government Plan. Like the living document this approach allows our Open Government Plan to become, we look forward to honoring their opens source contribution by further enhancing it with new features and capabilities for all agencies to benefit from. You can provide feedback through the following methods:</p>
 
 <ul>
   <li dir="ltr">
@@ -22,9 +22,6 @@ description: ""
   <li dir="ltr">
   <p dir="ltr">By email: If you prefer to email your comments and feedback, please email <a href="mailto:open.gov@gsa.gov" target="_blank">open.gov@gsa.gov</a>. We will post all comments received by email on to the “issues” on Github. If you do not wish us to share your feedback, please state so in your email.
   </p>
-  </li>
-  <li dir="ltr">
-  <p dir="ltr">On Blogs: You can provide feedback through comments on the <a href="https://aotus.blogs.archives.gov/" target="_blank">AOTUS Blog</a> and on the <a href="https://narations.blogs.archives.gov/" target="_blank">NARAtions Blog</a>. You will not need to create an account to post your feedback.</p>
   </li>
   <li dir="ltr">
   <p dir="ltr">On other platforms: You can tweet us <a href="https://twitter.com/USGSA" target="_blank">@USGSA</a> or share your feedback on the General Services Administration <a href="https://www.facebook.com/GSA/" target="_blank">Facebook page</a>.</p>
