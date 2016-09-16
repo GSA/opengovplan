@@ -5,7 +5,7 @@ permalink: /ongoingflagship/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+# Ongoing Flagship Initiatives
 
 
 <p>Flagship initiatives already integrated into GSA’s offerings and
