@@ -39,6 +39,8 @@ navigation:
   url: /
 - text: "About GSA Open Government"
   url: /summary/
+- text: "Summary of New 2014-2016 Commitments"
+  url: /newcommitments/
 - text: "Section 1. Flagship Initiatives"
   url: /ongoingflagship/
 
