@@ -11,7 +11,7 @@ description: ""
 <p>Flagship initiatives already integrated into GSA’s offerings and
 widely used by Federal agencies to facilitate public participation in government:</p>
 
-# FMI.gov
+### FMI.gov
 The Facilities Management Institute (FMI), a public-facing “cloud institute” was created to implement the requirements of the Federal Buildings Personnel Training Act. It embodies the three open government principles: transparency, participation and collaboration. FMI.gov is an open site where the public, Federal agencies, professional societies, industry associations, apprenticeship training providers and academic institutions can collaborate on every aspect of reducing the cost of the Federal Government building operations while increasing its productivity and sustainability. The site provides users with updates on the program milestones and the road ahead for future development. The public can access the knowledge portal aspects of the site and connect with state-of-the-art applied research at the Federal Government’s national labs, major research universities and nonprofits. The site is a resource for anyone with expertise in or a desire for knowledge of:
 
 - facilities management and building operations
