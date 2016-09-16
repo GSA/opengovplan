@@ -5,14 +5,21 @@ permalink: /ongoingflagship/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+# Ongoing Flagship Initiatives
 
 
-<p>Flagship initiatives undertaken under Version 1:</p>
+<p>Flagship initiatives already integrated into GSA’s offerings and
+widely used by Federal agencies to facilitate public participation in government:</p>
 
-<p>In fugiat nulla irure salami aliquip non. Ribeye proident turducken jerky sint filet mignon dolore salami ea ad et reprehenderit. Pancetta incididunt occaecat ad filet mignon enim in chuck corned beef cow. Capicola qui exercitation, labore magna mollit chicken ham hock prosciutto excepteur. Fatback andouille voluptate irure spare ribs ground round. Officia irure anim tenderloin.</p>
+### FMI.gov
+The Facilities Management Institute (FMI), a public-facing “cloud institute” was created to implement the requirements of the Federal Buildings Personnel Training Act. It embodies the three open government principles: transparency, participation and collaboration. FMI.gov is an open site where the public, Federal agencies, professional societies, industry associations, apprenticeship training providers and academic institutions can collaborate on every aspect of reducing the cost of the Federal Government building operations while increasing its productivity and sustainability. The site provides users with updates on the program milestones and the road ahead for future development. The public can access the knowledge portal aspects of the site and connect with state-of-the-art applied research at the Federal Government’s national labs, major research universities and nonprofits. The site is a resource for anyone with expertise in or a desire for knowledge of:
 
+- facilities management and building operations
+- resource management
+- waste management and sustainability
+- energy management
+- applied research technologies
+- process improvement
+- performance metrics.
 
-<p>Landjaeger jerky shank, in sunt chuck ut chicken mollit aliqua nisi short ribs. Incididunt pork chop tempor mollit et bacon. Ut ut enim, esse venison non ad pork belly pastrami picanha short ribs prosciutto nulla. Consectetur sed commodo pig mollit dolore ad strip steak pancetta shoulder. Ea ipsum leberkas culpa fugiat.</p>
-
-<p>On March 29, 2016, the Archivist of the United States and NARA Senior Executives held the first Open Government webinar.&nbsp; The webinar included an overview and presentations on innovation, research services, declassification, Freedom of Information Act, and records management. The recording from this webinar is also available on the agency’s <a href="https://www.youtube.com/watch?v=DYVp1pmIZZI">YouTube channel</a>. NARA also held an in-person meeting with the researcher community at the National Archives in College Park, MD, with remote participation from researchers across the country.</p>
+The FBPTA sets up a strategic partnership between GSA and the Department of Energy to implement the Act’s requirements. FMI.gov takes that partnership and collaboration with other agencies to the next level by highlighting the training offered by each agency. A Web tool developed in collaboration with Office of Personnel Management allows Federal facilities workforce members to see the career path corresponding to their position and level within their organization. It will suggest a matrix of courses, certifications, licenses, degrees and registrations that represent the core competencies required, which are provided through a combination of government and industry training, and Academic/University training.
