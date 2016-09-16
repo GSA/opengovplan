@@ -5,10 +5,10 @@ permalink: /template/
 description: ""
 ---
 
-### Title of the page
+### Ongoing Flagship Initiatives
 
 
-<p>Bacon ipsum dolor amet pastrami laborum beef porchetta cillum boudin. Lorem culpa ball tip fatback. Sint jowl corned beef andouille, qui t-bone irure quis. Non dolore meatloaf prosciutto pork chop drumstick.</p>
+<p>Flagship initiatives undertaken under Version 1:</p>
 
 <p>In fugiat nulla irure salami aliquip non. Ribeye proident turducken jerky sint filet mignon dolore salami ea ad et reprehenderit. Pancetta incididunt occaecat ad filet mignon enim in chuck corned beef cow. Capicola qui exercitation, labore magna mollit chicken ham hock prosciutto excepteur. Fatback andouille voluptate irure spare ribs ground round. Officia irure anim tenderloin.</p>
 
