@@ -56,7 +56,7 @@ navigation:
   url: /participation/
 
 - text: "Section 5: <span>Open Source Software</span>"
-  url: /open source/
+  url: /opensource/
   
 - text: "Section 6: <span>Transparency Initiatives</span>"
   url: /transparency/
