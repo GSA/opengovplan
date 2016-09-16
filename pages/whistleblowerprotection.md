@@ -5,7 +5,7 @@ permalink: /whistleblowerprotection/
 description: ""
 ---
 
-### Whistleblower Protection
+# Whistleblower Protection
 
 The GSA Office of Inspector General provides Whistleblower Protection guidance for employees on its web page. This includes options for making a whistleblower disclosure, filing a complaint or appeal about whistleblower retaliation, contacting the Whistleblower Protection Ombudsman, and a link to additional information on the Office of Special Counsel website. The GSA Office of Human Resources Management provides information to new employees, current employees and supervisors on merit system principles, prohibited personnel practices and on the Whistleblower Protection Act. As part of its continual education and outreach efforts, it provides information to employees during new employees’ orientation, through learning series on managing performance appraisals, through supervisor/manager training on merit systems principles and prohibited personnel practices and through courses on GSA’s On-Line University. 
 
