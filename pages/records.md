@@ -5,14 +5,20 @@ permalink: /records/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+# Records Management
 
+The GSA continues to significantly improve its records management program and has actively worked to meet the goals of the November 28, 2011 Presidential Memorandum – “Managing Government Records” and the August 2013 NARA/OMB Directive M-12-18. Specifically, the GSA has accomplished the following improvements to the Records Management Program since 2011:  
+- Moved the Records Management Program from the Office of the Chief Information Officer where it resided as a minor subcomponent with two employees of a policy division to the Office of Administrative Services where it became the Records Management and Paper Reduction Branch with seven employees.  
+- Issued a new and more contemporary Records Management Policy to clarify roles and responsibilities for records management agency-wide.  Created and submitted a new comprehensive records schedule to the National Archives and Records Administration (NARA), which will simplify the management and disposal of electronic records.  
+- Developed online records management training to educate GSA employees agency-wide. This training is required to be taken every year.  
+Embarked on a paper reduction and digitization effort which resulted in recycling over 200 tons of paper and digitizing hundreds of thousands of documents. 
 
-<p>Flagship initiatives undertaken under Version 1:</p>
+The GSA is also making progress in meeting the requirements of the OMB/NARA directive, M-12-18 “Managing Government Records Directive.” 
+- By 2019, Federal agencies will manage all permanent electronic records in an electronic format – the GSA is on track to meet this target  
+- By 2016, Federal agencies will manage both permanent and temporary email records in an accessible electronic format – the GSA is on track to meet this target
+- Agencies must designate a Senior Agency Official (SAO) – the GSA met this target  
+- SAO shall ensure that permanent records are identified for transfer and reported to NARA – the GSA has met this goal for records stored in Federal Records Centers and completed this target by September 30, 2014, for records stored within GSA facilities 
+- Agency Records Officers must obtain NARA Certificate of Federal Records Management Training – the GSA has met this target
+- Agencies must establish records management training – the GSA has met this target.
+- SAO shall ensure that records are scheduled – the GSA is on track to meet this target
 
-<p>In fugiat nulla irure salami aliquip non. Ribeye proident turducken jerky sint filet mignon dolore salami ea ad et reprehenderit. Pancetta incididunt occaecat ad filet mignon enim in chuck corned beef cow. Capicola qui exercitation, labore magna mollit chicken ham hock prosciutto excepteur. Fatback andouille voluptate irure spare ribs ground round. Officia irure anim tenderloin.</p>
-
-
-<p>Landjaeger jerky shank, in sunt chuck ut chicken mollit aliqua nisi short ribs. Incididunt pork chop tempor mollit et bacon. Ut ut enim, esse venison non ad pork belly pastrami picanha short ribs prosciutto nulla. Consectetur sed commodo pig mollit dolore ad strip steak pancetta shoulder. Ea ipsum leberkas culpa fugiat.</p>
-
-<p>On March 29, 2016, the Archivist of the United States and NARA Senior Executives held the first Open Government webinar.&nbsp; The webinar included an overview and presentations on innovation, research services, declassification, Freedom of Information Act, and records management. The recording from this webinar is also available on the agency’s <a href="https://www.youtube.com/watch?v=DYVp1pmIZZI">YouTube channel</a>. NARA also held an in-person meeting with the researcher community at the National Archives in College Park, MD, with remote participation from researchers across the country.</p>
