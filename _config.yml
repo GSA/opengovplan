@@ -22,7 +22,7 @@ exclude:
 # Site metadata
 name: "Open Government Plan"
 description: "Some information about GSA in general."
-baseurl: 
+baseurl: /opengovplan
 
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
