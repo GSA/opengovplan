@@ -5,10 +5,6 @@ permalink: /websites/
 description: ""
 ---
 
-# GSA Webpages for More Information
-- GSA.gov -- homepage of GSA. 
-- Open.GSA.gov -- portal for GSA open source programs. 
-- GSA.gov/Open -- portal for information on GSA transparency and openness initiatives.
-- DigitalGov.gov -- portal to help those in agencies working on providing digital services and information for the public.
-- Data.gov -- portal to  find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more
-- 18F.GSA.gov -- homepage of 18F, with information designed to inform the public and help federal agencies build, buy, and share modern digital services to improve the user experience of government.
+# Websites
+
+The GSA adheres to an internal web standard of continuous improvement with all of its digital products. The GSA’s Enterprise Web Management team resides organizationally within the Office of Communications and Marketing and has a team of two usability professionals, a senior web analyst and an expert digital team who conduct testing on the top 100 pages of GSA.gov. Additionally, the agency performs constant audience satisfaction surveys on GSA.gov and scores a high rating from the American Customer Satisfaction Index (ACSI). The ACSI survey also generates visitor comments about their experience using GSA.gov. Instant customer surveys designed to gather customer comments and feedback are also available on top microsites on GSA.gov. Metrics on website usage are gathered on a daily basis from WebTrends and Google Analytics tools with dashboards of progress posted for public view and comment. 
