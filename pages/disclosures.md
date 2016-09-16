@@ -5,7 +5,7 @@ permalink: /disclosures/
 description: ""
 ---
 
-### Proactive Discloser
+# Proactive Discloser
 
 GSA is continuing to improve its Freedom of Information Act (FOIA) performance and proactive disclosure through the use of technology and overall process improvement. The GSA FOIA Office goals focus on the further integration of technology to promote proactive disclosure. In every instance possible, GSA operates with a “presumption of openness” in our release of information to the public. We utilize new technology and manage our FOIA operations in a manner that strengthens our response processes, promotes proactive disclosure and maximizes our customer service level with the general public. In addition, GSA management has prioritized several GSA data assets for release due to their potential high value to the public. 
 
