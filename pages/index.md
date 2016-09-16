@@ -20,7 +20,7 @@ description: ""
   <p dir="ltr">Edit on Github: We have published this plan on Github so that you can also provide suggested edits by submitting a pull request with the specific language changes. Select the “Edit” function on the upper right or bottom left of any page to make a suggested language edit to that page. You will need to create a Github Account to submit a suggested edit through a pull request. </p>
   </li>
   <li dir="ltr">
-  <p dir="ltr">By email: If you prefer to email your comments and feedback, please email <a href="mailto:open.gov@gsa.gov" target="_blank">open.gov@gsa.gov</a>. We will post all comments received by email on to the “issues” on Github. If you do not wish us to share your feedback, please state so in your email.
+  <p dir="ltr">By email: If you prefer to email your comments and feedback, please email <a href="mailto:open.government@gsa.gov" target="_blank">open.gov@gsa.gov</a>. We will post all comments received by email on to the “issues” on Github. If you do not wish us to share your feedback, please state so in your email.
   </p>
   </li>
   <li dir="ltr">
