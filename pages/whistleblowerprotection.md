@@ -5,14 +5,8 @@ permalink: /whistleblowerprotection/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+### Whistleblower Protection
 
+The GSA Office of Inspector General provides Whistleblower Protection guidance for employees on its web page. This includes options for making a whistleblower disclosure, filing a complaint or appeal about whistleblower retaliation, contacting the Whistleblower Protection Ombudsman, and a link to additional information on the Office of Special Counsel website. The GSA Office of Human Resources Management provides information to new employees, current employees and supervisors on merit system principles, prohibited personnel practices and on the Whistleblower Protection Act. As part of its continual education and outreach efforts, it provides information to employees during new employees’ orientation, through learning series on managing performance appraisals, through supervisor/manager training on merit systems principles and prohibited personnel practices and through courses on GSA’s On-Line University. 
 
-<p>Flagship initiatives undertaken under Version 1:</p>
-
-<p>In fugiat nulla irure salami aliquip non. Ribeye proident turducken jerky sint filet mignon dolore salami ea ad et reprehenderit. Pancetta incididunt occaecat ad filet mignon enim in chuck corned beef cow. Capicola qui exercitation, labore magna mollit chicken ham hock prosciutto excepteur. Fatback andouille voluptate irure spare ribs ground round. Officia irure anim tenderloin.</p>
-
-
-<p>Landjaeger jerky shank, in sunt chuck ut chicken mollit aliqua nisi short ribs. Incididunt pork chop tempor mollit et bacon. Ut ut enim, esse venison non ad pork belly pastrami picanha short ribs prosciutto nulla. Consectetur sed commodo pig mollit dolore ad strip steak pancetta shoulder. Ea ipsum leberkas culpa fugiat.</p>
-
-<p>On March 29, 2016, the Archivist of the United States and NARA Senior Executives held the first Open Government webinar.&nbsp; The webinar included an overview and presentations on innovation, research services, declassification, Freedom of Information Act, and records management. The recording from this webinar is also available on the agency’s <a href="https://www.youtube.com/watch?v=DYVp1pmIZZI">YouTube channel</a>. NARA also held an in-person meeting with the researcher community at the National Archives in College Park, MD, with remote participation from researchers across the country.</p>
+Employees can access the Merit System Principles and Prohibited Personnel Practices on GSA’s intranet. GSA has also met the requirements of OSC’s 2302(c) Certification Program:  Informational Posters are posted at the front elevators and throughout GSA buildings. They address Whistleblower protections, retaliation, and Prohibited Personnel Practices, respectively.  New Employee Orientation packages include documents about Prohibited Personnel Policies and the rights of employees under the Whistleblower Protection Act.  No Fear Act Training through GSA’s Online University is mandatory for all current employees and managers. This course covers the rights and remedies available to federal GSA Open Government Plan 2014-2016 10 employees under both antidiscrimination laws and whistleblower protection laws. New employees must take this training within 90-days of being hired. After that, training is required every two years for all employees. 
