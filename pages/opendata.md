@@ -21,21 +21,16 @@ User traffic drives approximately 10 million page views in the last year and 2.7
 
 Key Links for Data.gov include:
 
-- Project Open Data: https://project-open-data.cio.gov/
-- Data.gov on GitHub: https://github.com/GSA/data.gov
-- Tools on Data.gov: https://www.data.gov/labs/
-- How-To Guide for Data.gov: http://www.digitalgov.gov/resources/how-to-get-your-open-data-on-data-gov/
+- [Project Open Data](https://project-open-data.cio.gov/)
+- [Data.gov on GitHub](https://github.com/GSA/data.gov)
+- [Tools on Data.gov](https://www.data.gov/labs/)
+- [How-To Guide for Data.gov](http://www.digitalgov.gov/resources/how-to-get-your-open-data-on-data-gov/)
 
 Subject Areas include:
 
-- See Data.gov Topics for curated content and datasets, for example: https://www.data.gov/climate/
-- Developers create applications based on open government data. See recent examples at: https://www.data.gov/food/farmplenty/ and https://www.data.gov/applications/elder-care-finder/
-- Search for government data on the projects discussed today and many more subjects on https://catalog.data.gov such as:
-Health-incidence of disease, cost and quality information about hospitals and other health care providers
-- Education data – public school performance, student loans, campus safety
-Climate – severe weather, flooding data, impact on water supplies, human health
-Food – nutrition information, farm markets, national production, food insecurity
-- Public Safety – product recalls, accident data, crime statistics 
+- See Data.gov Topics for curated content and datasets, for example [Climate](https://www.data.gov/climate/)
+- Developers create applications based on open government data. See recent examples: [Farmplenty](https://www.data.gov/food/farmplenty/) and [Elder Care Finder](https://www.data.gov/applications/elder-care-finder/)
+- Search for government data on the projects discussed today and many more subjects on [Data.gov's Data Catalog](https://catalog.data.gov).
 
 To build upon these successes as well as launch new initiatives to help fulfill open data’s potential, the United States will: 
 
