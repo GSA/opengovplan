@@ -37,6 +37,7 @@ The mission of Performance.gov is to assist the public in learning more about ho
 Performance.gov offers a window to the Administration’s efforts of delivering a more effective, smarter, and leaner government by providing the public, members of Congress, and the media with a view of progress underway within and across agencies in cutting waste, streamlining government, and improving performance. The site advances the President’s commitment, as documented in the Federal Government GSA Open Government Plan 2014-2016, to communicate candidly and concisely the progress on initiatives agencies are working to accomplish, how they seek to accomplish their objectives, and why these efforts are important. 
  
 In 2013, GSA updated the site to meet the requirements of the Government Performance and Results Modernization Act of 2010, which requires regular progress updates on the top agency specific performance goals. This law set in motion a variety of reforms to modernize the Federal Government’s nearly two-decade-old performance management framework. Congress included transparency provisions in the Act, which require the following:
+
 - Develop and deploy a single Federal website that complies with the act and provides performance information for Federal and agency priority goals;
 - Develop a consolidated list of Federal Government programs for inclusion on the site; and 
 - Consolidate all core agency strategic plan information and annual performance reports on this website in a “searchable and machine readable format.” 
