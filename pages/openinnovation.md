@@ -5,14 +5,18 @@ permalink: /openinnovation/
 description: ""
 ---
 
-### Ongoing Flagship Initiatives
+# Open Innovation Methods
+
+### 7.1  Redesign Challenge.gov as a Platform. 
+Challenge.gov is the government’s website that catalogues opportunities for the public to provide solutions to issues that government is working to address such as providing better access to services for veterans and empowering women and families. In 2016, the United States will launch a new version of Challenge.gov to make it easier for the public to discover, understand, and participate in prizes and challenges. The GSA will also release an open source version of Challenge.gov to enable implementation by governments around the world to improve citizen engagement, encourage entrepreneurship, and develop breakthrough solutions to meet national needs.
+
+### 7.2  Coordinate Open Innovation Opportunities Across Government with Innovation Toolkit. 
+Federal agencies will catalog their current open innovation activities including prizes, challenges, citizen science, and crowdsourcing activities. Agencies will list all prizes and challenges on Challenge.gov. In addition, the GSA will create a new project database that lists citizen science and crowdsourcing projects 13 from across government. To continue to build the evidence base for open innovation, agencies will contribute metrics-driven case studies for open innovation activities to the Open Innovation Toolkit. 
+
+### 7.3  Redesign Open.GSA.gov Portal 
+Open.gsa.gov is an Open Innovation Initiative in the Office of the Chief Technical Officer’s Digital Service divison. As the current developer portal for all GSA data, APIs, and code open to the public, the site acts as a resource for developers who are interested in building applications using GSA data and web services.  In late 2016, a new version of Open.gsa.gov will be launched with a refreshed design emphasizing a user-focused experience and increased engagement with the public.
 
 
-<p>Flagship initiatives undertaken under Version 1:</p>
-
-<p>In fugiat nulla irure salami aliquip non. Ribeye proident turducken jerky sint filet mignon dolore salami ea ad et reprehenderit. Pancetta incididunt occaecat ad filet mignon enim in chuck corned beef cow. Capicola qui exercitation, labore magna mollit chicken ham hock prosciutto excepteur. Fatback andouille voluptate irure spare ribs ground round. Officia irure anim tenderloin.</p>
 
 
-<p>Landjaeger jerky shank, in sunt chuck ut chicken mollit aliqua nisi short ribs. Incididunt pork chop tempor mollit et bacon. Ut ut enim, esse venison non ad pork belly pastrami picanha short ribs prosciutto nulla. Consectetur sed commodo pig mollit dolore ad strip steak pancetta shoulder. Ea ipsum leberkas culpa fugiat.</p>
 
-<p>On March 29, 2016, the Archivist of the United States and NARA Senior Executives held the first Open Government webinar.&nbsp; The webinar included an overview and presentations on innovation, research services, declassification, Freedom of Information Act, and records management. The recording from this webinar is also available on the agency’s <a href="https://www.youtube.com/watch?v=DYVp1pmIZZI">YouTube channel</a>. NARA also held an in-person meeting with the researcher community at the National Archives in College Park, MD, with remote participation from researchers across the country.</p>
