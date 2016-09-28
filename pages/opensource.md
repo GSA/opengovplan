@@ -9,7 +9,7 @@ description: ""
 
 The GSA moved to an open source-first strategy for the enterprise in August of 2014, confirmed it again in October of 2015, operate against it at the strategic enterprise level, project level and at the data layer. Open source-first is baked into the GSA DNA and is one of our core operating principles.
 
-In addition to the GSA IT’s development of Open.GSA.gov, GSA, a digital services delivery team within the GSA, develops in-house digital solutions to help agencies meet the needs of the people and businesses they serve. 
+In addition to the GSA IT’s development of Open.GSA.gov, TTS, a digital services branch within the GSA, develops in-house digital solutions to help agencies meet the needs of the people and businesses they serve. 
 
 According to GSA’s Open Source policy: this requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. Government.
 
